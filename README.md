@@ -3,7 +3,7 @@ Esse projeto é um aplicativo Android nativo desenvolvido com a lingagem de prog
 
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
-<img src="https://github.com/roquebuarquejr/calculadoraImc/tree/main/results/darkmode_1.png" width=260/> <img src="https://github.com/roquebuarquejr/calculadoraImc/tree/main/results/darkmode_2.png" width=260/>
+<img src="https://github.com/jonx012/CalculadoraIMC/blob/727448e23381d2ba1f308621114a1259be6b6894/results/darkmode_1.png" width=260/> <img src="https://github.com/roquebuarquejr/calculadoraImc/tree/main/results/darkmode_2.png" width=260/>
 
 
 ## Tecnologias
