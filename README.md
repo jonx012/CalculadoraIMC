@@ -1,8 +1,7 @@
 # CalculadoraIMC
-Esse projeto é um aplicativo Android nativo desenvolvido com a lingagem de programação Kotlin, tem com principal funcionlidade, fazer o cálculo do IMC e mostrar o resultado na tela seguinte.
+O projeto é uma Aplicação Android desenvolvido nativamente através da linguagem de programação Kotlin, o foco do APP é calcular o IMC, baseado nos dados que o usuário apresenta, gerando desta forma um resultado, que é mostrado ao usuário em uma segunda tela. 
 
 ## :camera_flash: Screenshots
-<!-- You can add more screenshots here if you like -->
 <img src="https://github.com/jonx012/CalculadoraIMC/blob/main/results/darkmode_1.png" width=260/> <img src="https://github.com/jonx012/CalculadoraIMC/blob/main/results/darkmode_2.png" width=260/> <img src="https://github.com/jonx012/CalculadoraIMC/blob/main/results/darkmode_3.png" width=260/>
 
 
